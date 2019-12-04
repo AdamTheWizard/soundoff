@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/soundoff/static/css/main.55aa6df2.chunk.css",
+    "main.css": "/soundoff/static/css/main.5b849a3c.chunk.css",
     "main.js": "/soundoff/static/js/main.e56c67f2.chunk.js",
     "main.js.map": "/soundoff/static/js/main.e56c67f2.chunk.js.map",
     "runtime-main.js": "/soundoff/static/js/runtime-main.b0eb291b.js",
@@ -8,14 +8,14 @@
     "static/js/2.fe49e526.chunk.js": "/soundoff/static/js/2.fe49e526.chunk.js",
     "static/js/2.fe49e526.chunk.js.map": "/soundoff/static/js/2.fe49e526.chunk.js.map",
     "index.html": "/soundoff/index.html",
-    "precache-manifest.2dd76654f22ed3e388a92595b933b712.js": "/soundoff/precache-manifest.2dd76654f22ed3e388a92595b933b712.js",
+    "precache-manifest.0e72806dab79ceca4e64c72b99948c03.js": "/soundoff/precache-manifest.0e72806dab79ceca4e64c72b99948c03.js",
     "service-worker.js": "/soundoff/service-worker.js",
-    "static/css/main.55aa6df2.chunk.css.map": "/soundoff/static/css/main.55aa6df2.chunk.css.map"
+    "static/css/main.5b849a3c.chunk.css.map": "/soundoff/static/css/main.5b849a3c.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.b0eb291b.js",
     "static/js/2.fe49e526.chunk.js",
-    "static/css/main.55aa6df2.chunk.css",
+    "static/css/main.5b849a3c.chunk.css",
     "static/js/main.e56c67f2.chunk.js"
   ]
 }

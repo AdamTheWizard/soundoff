@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8fbc38dac959922849f017dd2091b95e",
+    "revision": "583e6369320e0ab41740e10c32144e48",
     "url": "/soundoff/index.html"
   },
   {
-    "revision": "785fc4ed6a04ec466493",
-    "url": "/soundoff/static/css/main.55aa6df2.chunk.css"
+    "revision": "0e660560bd25f8f0d9d2",
+    "url": "/soundoff/static/css/main.5b849a3c.chunk.css"
   },
   {
     "revision": "35feaf785d8630216271",
     "url": "/soundoff/static/js/2.fe49e526.chunk.js"
   },
   {
-    "revision": "785fc4ed6a04ec466493",
+    "revision": "0e660560bd25f8f0d9d2",
     "url": "/soundoff/static/js/main.e56c67f2.chunk.js"
   },
   {
